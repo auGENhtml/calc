@@ -41,6 +41,7 @@ body {
    text-align: right;
    font-family: digital;
    box-shadow: 2px 3px 2px rgb(255, 255, 255, 0.5);
+   overflow: hidden;
 
 }
 
